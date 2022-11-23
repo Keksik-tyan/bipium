@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "bp-api": "^0.5.4",
+    "dotenv": "^16.0.3"
+  }
+}
